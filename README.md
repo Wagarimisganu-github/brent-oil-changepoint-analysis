@@ -40,6 +40,6 @@ brent-oil-changepoint-analysis/
 ```
 
 ## Data Sources
-- Primary Brent oil price data (1987-2022)
+- Primary Brent oil price data 
 - Economic indicators from World Bank api
 
